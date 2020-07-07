@@ -584,6 +584,10 @@ API | Description | Auth | HTTPS | CORS |
 | [NPR One](http://dev.npr.org/api/) | Personalized news listening experience from NPR | `OAuth` | Yes | Unknown |
 | [The Guardian](http://open-platform.theguardian.com/) | Access all the content the Guardian creates, categorised by tags and section | `apiKey` | Yes | Unknown |
 | [The Old Reader](https://github.com/theoldreader/api) | RSS reader | `apiKey` | Yes | Unknown |
+| [NewsCatcherAPI](https://newscatcherapi.com/) | News API to find news articles by any topic, country, language, website, or keyword| `apiKey` | Yes | Unknown |
+| [COVID-19 News](https://www.notion.so/COVID-19-Free-News-API-df7112e4e6d24df9aa40d43394339170) | Find all news mentioning COVID and its synonyms | `apiKey` | Yes | Unknown |
+| [Google News](https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/google-news) | Unofficial Google News API | `apiKey` | Yes | Unknown |
+| [Stock Google News](https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/stock-google-news) | Unofficial Stock Google News API | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Open Data
